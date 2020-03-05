@@ -1,0 +1,7 @@
+D:\DP\Abstract\Abstract\bin\Debug\Abstract.exe.config
+D:\DP\Abstract\Abstract\bin\Debug\Abstract.exe
+D:\DP\Abstract\Abstract\bin\Debug\Abstract.pdb
+D:\DP\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+D:\DP\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\DP\Abstract\Abstract\obj\Debug\Abstract.exe
+D:\DP\Abstract\Abstract\obj\Debug\Abstract.pdb

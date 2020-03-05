@@ -1,0 +1,6 @@
+D:\DP\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe.config
+D:\DP\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe
+D:\DP\XmlDemo\XmlDemo\bin\Debug\XmlDemo.pdb
+D:\DP\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.CoreCompileInputs.cache
+D:\DP\XmlDemo\XmlDemo\obj\Debug\XmlDemo.exe
+D:\DP\XmlDemo\XmlDemo\obj\Debug\XmlDemo.pdb

@@ -1,0 +1,7 @@
+D:\DP\Calci\Calci\bin\Debug\Calci.exe.config
+D:\DP\Calci\Calci\bin\Debug\Calci.exe
+D:\DP\Calci\Calci\bin\Debug\Calci.pdb
+D:\DP\Calci\Calci\obj\Debug\Calci.csprojResolveAssemblyReference.cache
+D:\DP\Calci\Calci\obj\Debug\Calci.csproj.CoreCompileInputs.cache
+D:\DP\Calci\Calci\obj\Debug\Calci.exe
+D:\DP\Calci\Calci\obj\Debug\Calci.pdb

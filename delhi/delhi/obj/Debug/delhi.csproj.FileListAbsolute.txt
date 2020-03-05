@@ -1,0 +1,6 @@
+D:\DP\delhi\delhi\bin\Debug\delhi.exe.config
+D:\DP\delhi\delhi\bin\Debug\delhi.exe
+D:\DP\delhi\delhi\bin\Debug\delhi.pdb
+D:\DP\delhi\delhi\obj\Debug\delhi.csproj.CoreCompileInputs.cache
+D:\DP\delhi\delhi\obj\Debug\delhi.exe
+D:\DP\delhi\delhi\obj\Debug\delhi.pdb

@@ -1,0 +1,7 @@
+D:\DP\DataDemo\DataDemo\bin\Debug\DataDemo.exe.config
+D:\DP\DataDemo\DataDemo\bin\Debug\DataDemo.exe
+D:\DP\DataDemo\DataDemo\bin\Debug\DataDemo.pdb
+D:\DP\DataDemo\DataDemo\obj\Debug\DataDemo.csprojResolveAssemblyReference.cache
+D:\DP\DataDemo\DataDemo\obj\Debug\DataDemo.csproj.CoreCompileInputs.cache
+D:\DP\DataDemo\DataDemo\obj\Debug\DataDemo.exe
+D:\DP\DataDemo\DataDemo\obj\Debug\DataDemo.pdb

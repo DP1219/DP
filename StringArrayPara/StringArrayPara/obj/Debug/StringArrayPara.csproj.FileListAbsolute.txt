@@ -1,0 +1,7 @@
+D:\DP\StringArrayPara\StringArrayPara\obj\Debug\StringArrayPara.csprojResolveAssemblyReference.cache
+D:\DP\StringArrayPara\StringArrayPara\obj\Debug\StringArrayPara.csproj.CoreCompileInputs.cache
+D:\DP\StringArrayPara\StringArrayPara\bin\Debug\StringArrayPara.exe.config
+D:\DP\StringArrayPara\StringArrayPara\bin\Debug\StringArrayPara.exe
+D:\DP\StringArrayPara\StringArrayPara\bin\Debug\StringArrayPara.pdb
+D:\DP\StringArrayPara\StringArrayPara\obj\Debug\StringArrayPara.exe
+D:\DP\StringArrayPara\StringArrayPara\obj\Debug\StringArrayPara.pdb

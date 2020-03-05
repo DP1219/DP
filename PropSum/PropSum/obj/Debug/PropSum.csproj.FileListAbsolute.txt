@@ -1,0 +1,6 @@
+D:\DP\PropSum\PropSum\bin\Debug\PropSum.exe.config
+D:\DP\PropSum\PropSum\bin\Debug\PropSum.exe
+D:\DP\PropSum\PropSum\bin\Debug\PropSum.pdb
+D:\DP\PropSum\PropSum\obj\Debug\PropSum.csproj.CoreCompileInputs.cache
+D:\DP\PropSum\PropSum\obj\Debug\PropSum.exe
+D:\DP\PropSum\PropSum\obj\Debug\PropSum.pdb

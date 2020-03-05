@@ -1,0 +1,6 @@
+D:\DP\MethodAdd\MethodAdd\bin\Debug\MethodAdd.exe.config
+D:\DP\MethodAdd\MethodAdd\bin\Debug\MethodAdd.exe
+D:\DP\MethodAdd\MethodAdd\bin\Debug\MethodAdd.pdb
+D:\DP\MethodAdd\MethodAdd\obj\Debug\MethodAdd.csproj.CoreCompileInputs.cache
+D:\DP\MethodAdd\MethodAdd\obj\Debug\MethodAdd.exe
+D:\DP\MethodAdd\MethodAdd\obj\Debug\MethodAdd.pdb

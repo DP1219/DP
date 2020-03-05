@@ -1,0 +1,6 @@
+D:\DP\Week\Week\bin\Debug\Week.exe.config
+D:\DP\Week\Week\bin\Debug\Week.exe
+D:\DP\Week\Week\bin\Debug\Week.pdb
+D:\DP\Week\Week\obj\Debug\Week.csproj.CoreCompileInputs.cache
+D:\DP\Week\Week\obj\Debug\Week.exe
+D:\DP\Week\Week\obj\Debug\Week.pdb

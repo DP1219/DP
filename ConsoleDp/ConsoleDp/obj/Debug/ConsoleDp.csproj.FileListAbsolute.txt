@@ -1,0 +1,6 @@
+D:\DP\ConsoleDp\ConsoleDp\bin\Debug\ConsoleDp.exe.config
+D:\DP\ConsoleDp\ConsoleDp\bin\Debug\ConsoleDp.exe
+D:\DP\ConsoleDp\ConsoleDp\bin\Debug\ConsoleDp.pdb
+D:\DP\ConsoleDp\ConsoleDp\obj\Debug\ConsoleDp.csprojAssemblyReference.cache
+D:\DP\ConsoleDp\ConsoleDp\obj\Debug\ConsoleDp.exe
+D:\DP\ConsoleDp\ConsoleDp\obj\Debug\ConsoleDp.pdb

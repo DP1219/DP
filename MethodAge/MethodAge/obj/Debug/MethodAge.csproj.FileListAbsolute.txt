@@ -1,0 +1,7 @@
+D:\DP\MethodAge\MethodAge\obj\Debug\MethodAge.csprojResolveAssemblyReference.cache
+D:\DP\MethodAge\MethodAge\obj\Debug\MethodAge.csproj.CoreCompileInputs.cache
+D:\DP\MethodAge\MethodAge\bin\Debug\MethodAge.exe.config
+D:\DP\MethodAge\MethodAge\bin\Debug\MethodAge.exe
+D:\DP\MethodAge\MethodAge\bin\Debug\MethodAge.pdb
+D:\DP\MethodAge\MethodAge\obj\Debug\MethodAge.exe
+D:\DP\MethodAge\MethodAge\obj\Debug\MethodAge.pdb

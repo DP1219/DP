@@ -1,0 +1,7 @@
+D:\DP\ArrayOP\ArrayOP\bin\Debug\ArrayOP.exe.config
+D:\DP\ArrayOP\ArrayOP\bin\Debug\ArrayOP.exe
+D:\DP\ArrayOP\ArrayOP\bin\Debug\ArrayOP.pdb
+D:\DP\ArrayOP\ArrayOP\obj\Debug\ArrayOP.csprojResolveAssemblyReference.cache
+D:\DP\ArrayOP\ArrayOP\obj\Debug\ArrayOP.csproj.CoreCompileInputs.cache
+D:\DP\ArrayOP\ArrayOP\obj\Debug\ArrayOP.exe
+D:\DP\ArrayOP\ArrayOP\obj\Debug\ArrayOP.pdb

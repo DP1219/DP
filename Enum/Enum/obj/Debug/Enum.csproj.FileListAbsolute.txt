@@ -1,0 +1,7 @@
+D:\DP\Enum\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
+D:\DP\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+D:\DP\Enum\Enum\bin\Debug\Enum.exe.config
+D:\DP\Enum\Enum\bin\Debug\Enum.exe
+D:\DP\Enum\Enum\bin\Debug\Enum.pdb
+D:\DP\Enum\Enum\obj\Debug\Enum.exe
+D:\DP\Enum\Enum\obj\Debug\Enum.pdb

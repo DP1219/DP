@@ -1,0 +1,7 @@
+D:\DP\MethodGreet\MethodGreet\obj\Debug\MethodGreet.csprojResolveAssemblyReference.cache
+D:\DP\MethodGreet\MethodGreet\obj\Debug\MethodGreet.csproj.CoreCompileInputs.cache
+D:\DP\MethodGreet\MethodGreet\bin\Debug\MethodGreet.exe.config
+D:\DP\MethodGreet\MethodGreet\bin\Debug\MethodGreet.exe
+D:\DP\MethodGreet\MethodGreet\bin\Debug\MethodGreet.pdb
+D:\DP\MethodGreet\MethodGreet\obj\Debug\MethodGreet.exe
+D:\DP\MethodGreet\MethodGreet\obj\Debug\MethodGreet.pdb

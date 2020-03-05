@@ -1,0 +1,7 @@
+D:\DP\CallByRef\CallByRef\bin\Debug\CallByRef.exe.config
+D:\DP\CallByRef\CallByRef\bin\Debug\CallByRef.exe
+D:\DP\CallByRef\CallByRef\bin\Debug\CallByRef.pdb
+D:\DP\CallByRef\CallByRef\obj\Debug\CallByRef.csproj.CoreCompileInputs.cache
+D:\DP\CallByRef\CallByRef\obj\Debug\CallByRef.exe
+D:\DP\CallByRef\CallByRef\obj\Debug\CallByRef.pdb
+D:\DP\CallByRef\CallByRef\obj\Debug\CallByRef.csprojResolveAssemblyReference.cache

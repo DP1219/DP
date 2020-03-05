@@ -1,0 +1,6 @@
+D:\DP\MethodTable\MethodTable\obj\Debug\MethodTable.csproj.CoreCompileInputs.cache
+D:\DP\MethodTable\MethodTable\bin\Debug\MethodTable.exe.config
+D:\DP\MethodTable\MethodTable\bin\Debug\MethodTable.exe
+D:\DP\MethodTable\MethodTable\bin\Debug\MethodTable.pdb
+D:\DP\MethodTable\MethodTable\obj\Debug\MethodTable.exe
+D:\DP\MethodTable\MethodTable\obj\Debug\MethodTable.pdb

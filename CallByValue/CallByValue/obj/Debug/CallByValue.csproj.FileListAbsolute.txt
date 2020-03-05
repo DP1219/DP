@@ -1,0 +1,7 @@
+D:\DP\CallByValue\CallByValue\bin\Debug\CallByValue.exe.config
+D:\DP\CallByValue\CallByValue\bin\Debug\CallByValue.exe
+D:\DP\CallByValue\CallByValue\bin\Debug\CallByValue.pdb
+D:\DP\CallByValue\CallByValue\obj\Debug\CallByValue.csprojResolveAssemblyReference.cache
+D:\DP\CallByValue\CallByValue\obj\Debug\CallByValue.csproj.CoreCompileInputs.cache
+D:\DP\CallByValue\CallByValue\obj\Debug\CallByValue.exe
+D:\DP\CallByValue\CallByValue\obj\Debug\CallByValue.pdb

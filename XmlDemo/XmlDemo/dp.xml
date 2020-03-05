@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+  <book>
+    <title>C#</title>
+    <author>Ck Naidu</author>
+    <year>2005</year>
+    <price>30.00</price>
+  </book>
+  <book>
+    <title>.NET</title>
+    <author>J K.Anil</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  <book>
+    <title>XML</title>
+    <author>E.Prasad</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+</bookstore>

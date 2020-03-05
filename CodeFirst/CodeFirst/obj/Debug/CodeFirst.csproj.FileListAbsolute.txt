@@ -1,0 +1,13 @@
+D:\DP\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\DP\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\DP\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\DP\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\DP\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\DP\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\DP\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\DP\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+D:\DP\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\DP\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+D:\DP\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\DP\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.createstudent.resources
+D:\DP\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.Cache

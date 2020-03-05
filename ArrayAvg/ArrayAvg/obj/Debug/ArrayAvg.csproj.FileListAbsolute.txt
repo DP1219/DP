@@ -1,0 +1,6 @@
+D:\DP\ArrayAvg\ArrayAvg\obj\Debug\ArrayAvg.csproj.CoreCompileInputs.cache
+D:\DP\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.exe.config
+D:\DP\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.exe
+D:\DP\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.pdb
+D:\DP\ArrayAvg\ArrayAvg\obj\Debug\ArrayAvg.exe
+D:\DP\ArrayAvg\ArrayAvg\obj\Debug\ArrayAvg.pdb

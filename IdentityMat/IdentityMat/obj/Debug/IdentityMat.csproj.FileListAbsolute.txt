@@ -1,0 +1,7 @@
+D:\DP\IdentityMat\IdentityMat\bin\Debug\IdentityMat.exe.config
+D:\DP\IdentityMat\IdentityMat\bin\Debug\IdentityMat.exe
+D:\DP\IdentityMat\IdentityMat\bin\Debug\IdentityMat.pdb
+D:\DP\IdentityMat\IdentityMat\obj\Debug\IdentityMat.csproj.CoreCompileInputs.cache
+D:\DP\IdentityMat\IdentityMat\obj\Debug\IdentityMat.exe
+D:\DP\IdentityMat\IdentityMat\obj\Debug\IdentityMat.pdb
+D:\DP\IdentityMat\IdentityMat\obj\Debug\IdentityMat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\DP\CodeFirstExample\CodeFirstExample\bin\Debug\CodeFirstExample.exe.config
+D:\DP\CodeFirstExample\CodeFirstExample\bin\Debug\CodeFirstExample.exe
+D:\DP\CodeFirstExample\CodeFirstExample\bin\Debug\CodeFirstExample.pdb
+D:\DP\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.dll
+D:\DP\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\DP\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.xml
+D:\DP\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\DP\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.csprojResolveAssemblyReference.cache
+D:\DP\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.csproj.CoreCompileInputs.cache
+D:\DP\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.exe
+D:\DP\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.pdb
+D:\DP\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.Migrations.createStudent1.resources
+D:\DP\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.csproj.GenerateResource.Cache

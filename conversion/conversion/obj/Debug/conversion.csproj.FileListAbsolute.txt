@@ -1,0 +1,5 @@
+D:\DP\conversion\conversion\bin\Debug\conversion.exe.config
+D:\DP\conversion\conversion\bin\Debug\conversion.exe
+D:\DP\conversion\conversion\bin\Debug\conversion.pdb
+D:\DP\conversion\conversion\obj\Debug\conversion.exe
+D:\DP\conversion\conversion\obj\Debug\conversion.pdb

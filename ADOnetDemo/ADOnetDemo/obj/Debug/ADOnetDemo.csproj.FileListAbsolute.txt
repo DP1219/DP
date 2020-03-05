@@ -1,0 +1,2 @@
+D:\DP\ADOnetDemo\ADOnetDemo\obj\Debug\ADOnetDemo.csprojResolveAssemblyReference.cache
+D:\DP\ADOnetDemo\ADOnetDemo\obj\Debug\ADOnetDemo.csproj.CoreCompileInputs.cache

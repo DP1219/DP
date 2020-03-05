@@ -1,0 +1,7 @@
+D:\DP\MethodSumMul\MethodSumMul\bin\Debug\MethodSumMul.exe.config
+D:\DP\MethodSumMul\MethodSumMul\bin\Debug\MethodSumMul.exe
+D:\DP\MethodSumMul\MethodSumMul\bin\Debug\MethodSumMul.pdb
+D:\DP\MethodSumMul\MethodSumMul\obj\Debug\MethodSumMul.csproj.CoreCompileInputs.cache
+D:\DP\MethodSumMul\MethodSumMul\obj\Debug\MethodSumMul.exe
+D:\DP\MethodSumMul\MethodSumMul\obj\Debug\MethodSumMul.pdb
+D:\DP\MethodSumMul\MethodSumMul\obj\Debug\MethodSumMul.csprojResolveAssemblyReference.cache

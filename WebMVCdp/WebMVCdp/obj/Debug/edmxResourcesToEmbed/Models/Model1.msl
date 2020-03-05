@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyDBModelStoreContainer" CdmEntityContainer="MyDBEntities">
+    <EntitySetMapping Name="Movies">
+      <EntityTypeMapping TypeName="IsTypeOf(MyDBModel.Movie)">
+        <MappingFragment StoreEntitySet="Movies">
+          <ScalarProperty Name="Movie_id" ColumnName="Movie_id" />
+          <ScalarProperty Name="Mname" ColumnName="Mname" />
+          <ScalarProperty Name="RealeseDate" ColumnName="RealeseDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Multiplexes">
+      <EntityTypeMapping TypeName="IsTypeOf(MyDBModel.Multiplex)">
+        <MappingFragment StoreEntitySet="Multiplexes">
+          <ScalarProperty Name="Multi_id" ColumnName="Multi_id" />
+          <ScalarProperty Name="Multi_Name" ColumnName="Multi_Name" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="Movie_id" ColumnName="Movie_id" />
+          <ScalarProperty Name="MovieMovie_id" ColumnName="MovieMovie_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

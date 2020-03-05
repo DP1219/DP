@@ -1,0 +1,34 @@
+﻿@model WebMVCdp.Models.Movie
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Mname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RealeseDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RealeseDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Movie_id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

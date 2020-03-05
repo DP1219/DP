@@ -1,0 +1,7 @@
+D:\DP\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+D:\DP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\DP\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\DP\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\DP\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\DP\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\DP\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

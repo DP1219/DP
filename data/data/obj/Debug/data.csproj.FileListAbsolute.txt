@@ -1,0 +1,7 @@
+D:\DP\data\data\bin\Debug\data.exe.config
+D:\DP\data\data\bin\Debug\data.exe
+D:\DP\data\data\bin\Debug\data.pdb
+D:\DP\data\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+D:\DP\data\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+D:\DP\data\data\obj\Debug\data.exe
+D:\DP\data\data\obj\Debug\data.pdb
